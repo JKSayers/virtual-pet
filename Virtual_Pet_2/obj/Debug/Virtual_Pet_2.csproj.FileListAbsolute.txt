@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Pet_2\Virtual_Pet_2\bin\Debug\Virtual_Pet_2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Virtual_Pet_2\Virtual_Pet_2\bin\Debug\Virtual_Pet_2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Virtual_Pet_2\Virtual_Pet_2\bin\Debug\Virtual_Pet_2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Virtual_Pet_2\Virtual_Pet_2\obj\Debug\Virtual_Pet_2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Virtual_Pet_2\Virtual_Pet_2\obj\Debug\Virtual_Pet_2.pdb
